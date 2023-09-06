@@ -24,6 +24,7 @@
     
     width: 75%;
     height: 53vw;
+    border: 2px solid black;
 }
 .nav-header {
     border:2px solid black;
